@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d0531f6b581de4ab8a09d81d007f7e, type: 3}
+  m_Name: Carrot
+  m_EditorClassIdentifier: 
+  _foodClass: {fileID: 11400000, guid: fabd51f3bce83e549a77dfcac7a09657, type: 2}
+  _prefab: {fileID: 3558509190320788328, guid: 62c28ca40d3e4444bb8a626fce6c2cf7, type: 3}

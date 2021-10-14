@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0da35424b9cf2f24eb4c3b51656dfaec, type: 3}
+  m_Name: Wolf
+  m_EditorClassIdentifier: 
+  id: 5
+  _animalClass: {fileID: 11400000, guid: 6f90e255f1a4e8a44a8761549a34d385, type: 2}
+  _foodType: {fileID: 11400000, guid: 112af0b0d9ceb3841b496444082e68be, type: 2}
+  _ico: {fileID: 6467686849782011846, guid: 7e9079b226d5f7543905e8bff19fa013, type: 3}
+  _prefab: {fileID: 9019862767751649196, guid: 9eea560cb5921cf4bac0ca59bc3a4201, type: 3}
+  _speedWalk: 3
+  _speedHungry: 1
+  _income: 10
+  _timeToSleep: 23
+  _timeToWakeUp: 5

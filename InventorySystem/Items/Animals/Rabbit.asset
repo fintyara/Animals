@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a741d0ee42f951742b03aaeb71d0d218, type: 3}
+  m_Name: Rabbit
+  m_EditorClassIdentifier: 
+  _ico: {fileID: -5216298307677079861, guid: 7e9079b226d5f7543905e8bff19fa013, type: 3}
+  _rarity: {fileID: 11400000, guid: aca52c41154a3ea4e8376942bbc4121d, type: 2}
+  _prefab: {fileID: 6271734803734847749, guid: e4d1448e3b9061a44bded6d92d8d3ff3, type: 3}
+  _itemEffects: []
+  _consumable: 0
+  _spawnable: 1
+  Id: 3
+  _animalType: {fileID: 11400000, guid: c9aeb4a9687558249932992ac7a62cc1, type: 2}

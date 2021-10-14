@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b48f4810d40f74b48a82371b3c81a332, type: 3}
+  m_Name: ScareAnimal
+  m_EditorClassIdentifier: 
+  entityType: {fileID: 11400000, guid: a494d4fa27960bf438337b9c467b7afe, type: 2}
+  effectType: {fileID: 11400000, guid: 701232c9d0f26ed458eb617902ba5e03, type: 2}
+  effectPref: {fileID: 8320525941196082187, guid: 10a2b2072845a544a9535235276d1b39,
+    type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0da35424b9cf2f24eb4c3b51656dfaec, type: 3}
+  m_Name: Rabbit
+  m_EditorClassIdentifier: 
+  id: 3
+  _animalClass: {fileID: 11400000, guid: 2a9021ab779fbbe47b310b1359beaaa8, type: 2}
+  _foodType: {fileID: 11400000, guid: b29a0873289cb9f4294cfa30273e3928, type: 2}
+  _ico: {fileID: -5216298307677079861, guid: 7e9079b226d5f7543905e8bff19fa013, type: 3}
+  _prefab: {fileID: 3025246948527988318, guid: e4d1448e3b9061a44bded6d92d8d3ff3, type: 3}
+  _speedWalk: 3
+  _speedHungry: 1
+  _income: 5
+  _timeToSleep: 23
+  _timeToWakeUp: 5

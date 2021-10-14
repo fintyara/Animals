@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdb1a367664ac9b4eab55dd2d2d5f3da, type: 3}
+  m_Name: All Lvl Up
+  m_EditorClassIdentifier: 
+  _lvlUps:
+  - {fileID: 11400000, guid: 71363451d4051ef45b5dfb1d82cb80be, type: 2}
+  - {fileID: 11400000, guid: d1d801836a8ca304a9f2adb21737c22d, type: 2}
+  - {fileID: 11400000, guid: 3b317369ee3e8334eaa09f322e1b97ff, type: 2}
+  - {fileID: 11400000, guid: 3f23a9fb1e8bedf4c92d82581acf9d46, type: 2}

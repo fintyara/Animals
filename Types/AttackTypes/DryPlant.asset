@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b48f4810d40f74b48a82371b3c81a332, type: 3}
+  m_Name: DryPlant
+  m_EditorClassIdentifier: 
+  entityType: {fileID: 11400000, guid: 774341dd5018d134da6c9903348596ce, type: 2}
+  effectType: {fileID: 11400000, guid: 7f84d668842d2954f8f35681dc94ec93, type: 2}
+  effectPref: {fileID: 5905423846901541796, guid: d7c56065d5556164cb0b9f65ef5ff3eb,
+    type: 3}
